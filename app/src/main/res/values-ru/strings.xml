@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">developersLife</string>
+    <string name="error_message">Произошла ошибка при загрузке данных. Проверьте подключение к сети.</string>
+    <string name="retry">ПОВТОРИТЬ</string>
+</resources>

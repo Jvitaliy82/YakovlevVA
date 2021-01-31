@@ -103,7 +103,6 @@ class MainActivity : AppCompatActivity() {
                     showProgressBar(false)
                     return false
                 }
-
             })
             .into(binding.imageView)
         binding.textViewDescription.setText(String.format("%s", story.description))
